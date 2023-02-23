@@ -1,0 +1,42 @@
+#navbar h1 {
+    background-color: rgb(216, 53, 91);
+    padding: 4px;
+    border-radius: 50%;
+    
+}
+
+#navbar{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+body {
+    background-image: url(https://t3.ftcdn.net/jpg/03/09/92/02/360_F_309920209_cJCfr3zJvdJ5RTBwXoz4UTt4LLpv4tuX.jpg);
+    color: white
+}
+
+
+#container {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    max-width: 200px;
+    border-style: groove;
+    border-width: thick;
+    border-color: rgb(216, 53, 91);
+    background-color: rgb(27, 76, 100);
+}
+
+.input-container{
+    margin: 12px;
+}
+
+
+
+
+
+
+
+
+
