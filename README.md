@@ -4,13 +4,13 @@ This is my second Mod 2 Project. The purpose of this project was to create an on
 
 ## Programming skills used
 
-*JavaScript
-*HTML
-*CSS
-*MongoDB
-*Mongoose
-*Express
-*Node
+- JavaScript
+- HTML
+- CSS
+- Express
+- Node
+- MongoDB
+- Mongoose
 
 ## Project Details 
 
