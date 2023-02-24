@@ -2,6 +2,10 @@
 
 This is my second Mod 2 Project for Per Scholas. The purpose of this project was to create an online store utilizing MongoBD database and incorporate CRUD (create, read, update and delete) and it functions. I was inspired by my home state Colorado, to create winter accessories that will keep you warm during the cold snowy days.
 
+Please click to link below to watch the video. 
+
+[Winter Product Store Project](https://youtu.be/PlBDjVFok54)
+
 ## Programming skills used
 
 - JavaScript
@@ -14,17 +18,19 @@ This is my second Mod 2 Project for Per Scholas. The purpose of this project was
 
 ## Project Details 
 
-1. Home page displays all products, a link to add new products, and when you click an image, you will be routed to a single image page
-2. Single page displays single item, home link, edit link, search procuct option, buy option and delete option.
-3. Edit page allows you to edit the product and a link back home.
-4. Add new product allows you to add new product and a link back home
-
 - Home page
-    - displays all products, 
-    - link to add new products, and 
-    - when you click an image, you will be routed to a single image page
-<!-- 2. Single page displays single item, home link, edit link, search procuct option, buy option and delete option.
-3. Edit page allows you to edit the product and a link back home.
-4. Add new product allows you to add new product and a link back home -->
-
-[Winter Product Store Project](https://youtu.be/PlBDjVFok54)
+    - Displays all products. 
+    - Link to add new products. 
+    - When you click an image, you will be routed to a single image page.
+- Single Page
+    - Display single item.
+    - Link to go back home.
+    - Link to go to Edit item.
+    - Delete and buy option.
+    - Search item option. 
+- Edit Page
+    - Allows you to edit the product.
+    - Link to go back home.
+- Add New Product Page
+    - Allows you to add a new product.
+    - Link to go back home.
