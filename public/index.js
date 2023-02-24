@@ -9,7 +9,7 @@ addPageButton.addEventListener('click', () => {
 
 
 //make request to display all items
-//create funtion and await response
+//create a display funtion and await response
 const getAndDisplayData = async () =>{
 
     let response = await fetch("http://localhost:5000/get_product_data");
