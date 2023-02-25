@@ -97,7 +97,7 @@ app.post('/create_product', async (req, res) =>{
     }
     })
 
-  //use infomation from req.body/front end to edit specific product
+  //use infomation from req.body to edit specific product
   app.put('/edit_product/:id', async (req, res) => { 
     let id = req.params.id
 
@@ -116,7 +116,7 @@ app.delete('/delete_product/:id', async (req, res) =>{
   res.send({data: `deleted ${response.deletedCount} items.`})
 })
 
-//will change inventory after purchase
+//use information from req.body to change inventory after purchase
 app.put('/buy_one_item/:id', async (req, res) => {
   let id = req.params.id;
   console.log(req.body);
